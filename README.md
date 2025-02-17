@@ -1,2 +1,2 @@
 # flight-booking
-book your flight and travel
+book your flight and travel.
